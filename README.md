@@ -1,3 +1,12 @@
+## Pokemon cards app
+This is a simple app that uses ReactJS and GraphQL to get data from a database and display it to user. 
+Basis for this code was made with the help of tutorial by Karl Hadwen (https://scrimba.com/course/greactgraphql)
+
+Future todos:
+ -> transform code to Typescript
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
